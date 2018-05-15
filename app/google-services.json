@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "185903846495",
+    "firebase_url": "https://domilearn-c4bf8.firebaseio.com",
+    "project_id": "domilearn-c4bf8",
+    "storage_bucket": "domilearn-c4bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185903846495:android:d1a18f9894b1debc",
+        "android_client_info": {
+          "package_name": "com.example.gupta.domilearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185903846495-3kvve17kdui2ljatq9pa0n5o6ivkj9va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRL06PxI4gXxHnEZ0k6Absxc2ZjUou_TM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
