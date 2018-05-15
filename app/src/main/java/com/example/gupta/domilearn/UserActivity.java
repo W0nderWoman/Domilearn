@@ -23,11 +23,11 @@ public class UserActivity extends AppCompatActivity {
         setContentView(R.layout.activity_user);
 
         dbref= FirebaseDatabase.getInstance().getReference("USERS");
-        t0=(TextView)findViewById(R.id.textView13);
-        t1=(TextView)findViewById(R.id.textView6);
-        t2=(TextView)findViewById(R.id.textView9);
-        t3=(TextView)findViewById(R.id.textView11);
-        t4=(TextView)findViewById(R.id.textView15);
+        t0=(TextView)findViewById(R.id.textView2);
+        t1=(TextView)findViewById(R.id.textView3);
+        t2=(TextView)findViewById(R.id.textView4);
+        t3=(TextView)findViewById(R.id.textView5);
+        t4=(TextView)findViewById(R.id.textView6);
 
         final String prikey;
         //RETRIEVE INTENT
